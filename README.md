@@ -1,3 +1,6 @@
+# go share
+test
+
 # go_interview
 总结诸多公司go/php  debug经验分享
 
